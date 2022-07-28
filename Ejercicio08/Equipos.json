@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "62e2c6a7527f6830c0527567"
+  },
+  "NumSerie": "1",
+  "Nombre": "Harvard Stars",
+  "Facultad": 1
+},{
+  "_id": {
+    "$oid": "62e2c6a7527f6830c0527568"
+  },
+  "NumSerie": "2",
+  "Nombre": "Columbia IT",
+  "Facultad": 2
+},{
+  "_id": {
+    "$oid": "62e2c6a7527f6830c0527569"
+  },
+  "NumSerie": "3",
+  "Nombre": "Atom's Standford",
+  "Facultad": 3
+},{
+  "_id": {
+    "$oid": "62e2c6a7527f6830c052756a"
+  },
+  "NumSerie": "4",
+  "Nombre": "Rams's Science ",
+  "Facultad": 4
+},{
+  "_id": {
+    "$oid": "62e2c6a7527f6830c052756b"
+  },
+  "NumSerie": "5",
+  "Nombre": "Golden State BH",
+  "Facultad": 5
+},{
+  "_id": {
+    "$oid": "62e2c6a7527f6830c052756c"
+  },
+  "NumSerie": "6",
+  "Nombre": "Chicago Black Matters",
+  "Facultad": 6
+},{
+  "_id": {
+    "$oid": "62e2c6a7527f6830c052756d"
+  },
+  "NumSerie": "7",
+  "Nombre": "UTAH BIO",
+  "Facultad": 7
+},{
+  "_id": {
+    "$oid": "62e2c6a7527f6830c052756e"
+  },
+  "NumSerie": "8",
+  "Nombre": "MFG genetics",
+  "Facultad": 8
+},{
+  "_id": {
+    "$oid": "62e2c6a7527f6830c052756f"
+  },
+  "NumSerie": "9",
+  "Nombre": "Yale Supremecy",
+  "Facultad": 9
+},{
+  "_id": {
+    "$oid": "62e2c6a7527f6830c0527570"
+  },
+  "NumSerie": "10",
+  "Nombre": "NY New Team",
+  "Facultad": 10
+}]

@@ -1,0 +1,59 @@
+use TA17
+db.createCollection("Facultad")
+
+db.Facultad.insertMany([
+  { Codigo: 1, Nombre: "UA Harvard"},
+  { Codigo: 2, Nombre: "UA Columbia"},
+  { Codigo: 3, Nombre: "UA Standford"},
+  { Codigo: 4, Nombre: "UA Rams"},
+  { Codigo: 5, Nombre: "GS Maveriks"},
+  { Codigo: 6, Nombre: "UA Chicago"},
+  { Codigo: 7, Nombre: "UA UTAH"},
+  { Codigo: 8, Nombre: "MFG"},
+  { Codigo: 9, Nombre: "WS Yale"},
+  { Codigo: 10, Nombre: "PU NY"}
+])
+
+db.createCollection("Equipos")
+db.Equipos.insertMany([
+  { NumSerie: '1', Nombre:"Harvard Stars", Facultad: 1 },
+  { NumSerie: '2', Nombre:"Columbia IT", Facultad: 2 },
+  { NumSerie: '3', Nombre:"Atom's Standford", Facultad: 3 },
+  { NumSerie: '4', Nombre:"Rams's Science", Facultad: 4 },
+  { NumSerie: '5', Nombre:"Golden State BH", Facultad: 5 },
+  { NumSerie: '6', Nombre:"Chicago Black Matters", Facultad: 6 },
+  { NumSerie: '7', Nombre:"UTAH BIO", Facultad: 7 },
+  { NumSerie: '8', Nombre:"MFG genetics", Facultad: 8 },
+  { NumSerie: '9', Nombre:"Yale Supremecy", Facultad: 9 },
+  { NumSerie: '10', Nombre:"NY New Team", Facultad: 10 }
+])
+
+db.createCollection("Investigadores")
+db.Investigadores.insertMany([
+  { DNI: "46423897", NomApels: "Ares Kifuka Pérez", Facultad:1  },
+  { DNI: "41297310", NomApels: "Emma Midwest", Facultad:1  },
+  { DNI: "49773169", NomApels: "Izan Ruiz Ruiz", Facultad:2  },
+  { DNI: "44576712", NomApels: "Pablo Gacía Escobar ", Facultad:2  },
+  { DNI: "49367416", NomApels: "Kane Morrison", Facultad:4  },
+  { DNI: "46227319", NomApels: "Jon Claude Van Damme", Facultad:4  },
+  { DNI: "46287315", NomApels: "Claudia Silverstar", Facultad:6  },
+  { DNI: "47401318", NomApels: "Ari Clayson", Facultad:3  },
+  { DNI: "40877319", NomApels: "Tania Ruiz Ruiz", Facultad:8  },
+  { DNI: "40067819", NomApels: "Pol Arbós", Facultad:9  },
+])
+
+db.createCollection("Reserva")
+db.Reserva.insertMany([
+  { DNI: "46423897", NumSerie:'1', Comienzo: '2004-01-22', Fin: '2004-01-24'  },
+  { DNI: "41297310", NumSerie:'1', Comienzo: '2004-01-22', Fin: '2004-01-24'  },
+  { DNI: "49773169", NumSerie:'2', Comienzo: '2004-01-26', Fin: '2004-01-28'  },
+  { DNI: "44576712", NumSerie:'2', Comienzo: '2004-01-26', Fin: '2004-01-28'  },
+  { DNI: "49367416", NumSerie:'4', Comienzo: '2004-01-29', Fin: '2004-01-31'  },
+  { DNI: "46227319", NumSerie:'4', Comienzo: '2004-01-29', Fin: '2004-01-31'  },
+  { DNI: "46287315", NumSerie:'6', Comienzo: '2004-02-01', Fin: '2004-02-04'  },
+  { DNI: "46423897", NumSerie:'3', Comienzo: '2004-02-05', Fin: '2004-02-06'  },
+  { DNI: "40877319", NumSerie:'8', Comienzo: '2004-02-10', Fin: '2004-02-11'  },
+  { DNI: "40067819", NumSerie:'9', Comienzo: '2004-02-12', Fin: '2004-01-14'  }
+
+])
+

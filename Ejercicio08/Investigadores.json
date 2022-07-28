@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "62e2c6b2527f6830c0527571"
+  },
+  "DNI": "46423897",
+  "NomApels": "Ares Kifuka Pérez",
+  "Facultad": 1
+},{
+  "_id": {
+    "$oid": "62e2c6b2527f6830c0527572"
+  },
+  "DNI": "41297310",
+  "NomApels": "Emma Midwest",
+  "Facultad": 1
+},{
+  "_id": {
+    "$oid": "62e2c6b2527f6830c0527573"
+  },
+  "DNI": "49773169",
+  "NomApels": "Izan Ruiz Ruiz",
+  "Facultad": 2
+},{
+  "_id": {
+    "$oid": "62e2c6b2527f6830c0527574"
+  },
+  "DNI": "44576712",
+  "NomApels": "Pablo Gacía Escobar ",
+  "Facultad": 2
+},{
+  "_id": {
+    "$oid": "62e2c6b2527f6830c0527575"
+  },
+  "DNI": "49367416",
+  "NomApels": "Kane Morrison",
+  "Facultad": 4
+},{
+  "_id": {
+    "$oid": "62e2c6b2527f6830c0527576"
+  },
+  "DNI": "46227319",
+  "NomApels": "Jon Claude Van Damme",
+  "Facultad": 4
+},{
+  "_id": {
+    "$oid": "62e2c6b2527f6830c0527577"
+  },
+  "DNI": "46287315",
+  "NomApels": "Claudia Silverstar",
+  "Facultad": 6
+},{
+  "_id": {
+    "$oid": "62e2c6b2527f6830c0527578"
+  },
+  "DNI": "47401318",
+  "NomApels": "Ari Clayson",
+  "Facultad": 3
+},{
+  "_id": {
+    "$oid": "62e2c6b2527f6830c0527579"
+  },
+  "DNI": "40877319",
+  "NomApels": "Tania Ruiz Ruiz",
+  "Facultad": 8
+},{
+  "_id": {
+    "$oid": "62e2c6b2527f6830c052757a"
+  },
+  "DNI": "40067819",
+  "NomApels": "Pol Arbós",
+  "Facultad": 9
+}]

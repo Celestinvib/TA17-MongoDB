@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62e2c699527f6830c052755d"
+  },
+  "Codigo": 1,
+  "Nombre": "UA Harvard"
+},{
+  "_id": {
+    "$oid": "62e2c699527f6830c052755e"
+  },
+  "Codigo": 2,
+  "Nombre": "UA Columbia"
+},{
+  "_id": {
+    "$oid": "62e2c699527f6830c052755f"
+  },
+  "Codigo": 3,
+  "Nombre": "UA Standford"
+},{
+  "_id": {
+    "$oid": "62e2c699527f6830c0527560"
+  },
+  "Codigo": 4,
+  "Nombre": "UA Rams"
+},{
+  "_id": {
+    "$oid": "62e2c699527f6830c0527561"
+  },
+  "Codigo": 5,
+  "Nombre": "GS Maveriks"
+},{
+  "_id": {
+    "$oid": "62e2c699527f6830c0527562"
+  },
+  "Codigo": 6,
+  "Nombre": "UA Chicago"
+},{
+  "_id": {
+    "$oid": "62e2c699527f6830c0527563"
+  },
+  "Codigo": 7,
+  "Nombre": "UA UTAH"
+},{
+  "_id": {
+    "$oid": "62e2c699527f6830c0527564"
+  },
+  "Codigo": 8,
+  "Nombre": "MFG"
+},{
+  "_id": {
+    "$oid": "62e2c699527f6830c0527565"
+  },
+  "Codigo": 9,
+  "Nombre": "WS Yale"
+},{
+  "_id": {
+    "$oid": "62e2c699527f6830c0527566"
+  },
+  "Codigo": 10,
+  "Nombre": "PU NY"
+}]
