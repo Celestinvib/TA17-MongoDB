@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "62e2c13b527f6830c052753f"
+  },
+  "DNI": "46423897",
+  "Nombre": "Ares",
+  "Apellidos": "Kifuka Pérez",
+  "Departamento": 1
+},{
+  "_id": {
+    "$oid": "62e2c13b527f6830c0527540"
+  },
+  "DNI": "44995913",
+  "Nombre": "Mark",
+  "Apellidos": "Johnson",
+  "Departamento": 1
+},{
+  "_id": {
+    "$oid": "62e2c13b527f6830c0527541"
+  },
+  "DNI": "44072783",
+  "Nombre": "Ceres",
+  "Apellidos": "García Pérez",
+  "Departamento": 1
+},{
+  "_id": {
+    "$oid": "62e2c13b527f6830c0527542"
+  },
+  "DNI": "45803096",
+  "Nombre": "John",
+  "Apellidos": "Travolta",
+  "Departamento": 2
+},{
+  "_id": {
+    "$oid": "62e2c13b527f6830c0527543"
+  },
+  "DNI": "40138116",
+  "Nombre": "Maria",
+  "Apellidos": "Carey",
+  "Departamento": 4
+},{
+  "_id": {
+    "$oid": "62e2c13b527f6830c0527544"
+  },
+  "DNI": "48425309",
+  "Nombre": "Jose",
+  "Apellidos": "Piqué Chiesa",
+  "Departamento": 8
+},{
+  "_id": {
+    "$oid": "62e2c13b527f6830c0527545"
+  },
+  "DNI": "41539450",
+  "Nombre": "Clara",
+  "Apellidos": "Moonrock",
+  "Departamento": 6
+},{
+  "_id": {
+    "$oid": "62e2c13b527f6830c0527546"
+  },
+  "DNI": "48391395",
+  "Nombre": "Adrián",
+  "Apellidos": "Milán Osana",
+  "Departamento": 3
+},{
+  "_id": {
+    "$oid": "62e2c13b527f6830c0527547"
+  },
+  "DNI": "41277319",
+  "Nombre": "Ewan",
+  "Apellidos": "Ruiz Ruiz",
+  "Departamento": 2
+},{
+  "_id": {
+    "$oid": "62e2c13b527f6830c0527548"
+  },
+  "DNI": "47734086",
+  "Nombre": "Aroa",
+  "Apellidos": "Mendoza Zaragoza",
+  "Departamento": 9
+}]

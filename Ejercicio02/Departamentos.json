@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "62e27051527f6830c0527535"
+  },
+  "Codigo": 1,
+  "Nombre": "RRHH",
+  "Presupuesto": 50000
+},{
+  "_id": {
+    "$oid": "62e27051527f6830c0527536"
+  },
+  "Codigo": 2,
+  "Nombre": "Ciberseguridad",
+  "Presupuesto": 70000
+},{
+  "_id": {
+    "$oid": "62e27051527f6830c0527537"
+  },
+  "Codigo": 3,
+  "Nombre": "Marketing",
+  "Presupuesto": 90000
+},{
+  "_id": {
+    "$oid": "62e27051527f6830c0527538"
+  },
+  "Codigo": 4,
+  "Nombre": "IT",
+  "Presupuesto": 44000
+},{
+  "_id": {
+    "$oid": "62e27051527f6830c0527539"
+  },
+  "Codigo": 5,
+  "Nombre": "Control y Gestión",
+  "Presupuesto": 60000
+},{
+  "_id": {
+    "$oid": "62e27051527f6830c052753a"
+  },
+  "Codigo": 6,
+  "Nombre": "Ventas",
+  "Presupuesto": 80000
+},{
+  "_id": {
+    "$oid": "62e27051527f6830c052753b"
+  },
+  "Codigo": 7,
+  "Nombre": "Comunicación",
+  "Presupuesto": 66000
+},{
+  "_id": {
+    "$oid": "62e27051527f6830c052753c"
+  },
+  "Codigo": 8,
+  "Nombre": "Desarollo",
+  "Presupuesto": 23000
+},{
+  "_id": {
+    "$oid": "62e27051527f6830c052753d"
+  },
+  "Codigo": 9,
+  "Nombre": "Planeación",
+  "Presupuesto": 20000
+},{
+  "_id": {
+    "$oid": "62e27051527f6830c052753e"
+  },
+  "Codigo": 10,
+  "Nombre": "Genral",
+  "Presupuesto": 30000
+}]
