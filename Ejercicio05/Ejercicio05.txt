@@ -1,0 +1,29 @@
+use TA17_Ejercicio05
+db.createCollection("Despachos")
+
+db.Despachos.insertMany([
+  { Numero: 1, Capacidad:4 },
+  { Numero: 2, Capacidad:2 },
+  { Numero: 3, Capacidad:5 },
+  { Numero: 4, Capacidad:1 },
+  { Numero: 5, Capacidad:3 },
+  { Numero: 6, Capacidad:3 },
+  { Numero: 7, Capacidad:1 },
+  { Numero: 8, Capacidad:2 },
+  { Numero: 9, Capacidad:1 },
+  { Numero: 10, Capacidad:4 }
+])
+
+db.createCollection("Directores")
+db.Directores.insertMany([
+  { DNI: "46423897", NomApels: "Ares Kifuka Pérez", DNIJefe: "47734086", Despacho:1  },
+  { DNI: "44995913", NomApels: "Mark Johnson", DNIJefe:"46423897", Despacho: 1 },
+  { DNI: "44072783", nombre: "Ceres García Pérez", DNIJefe: "46423897", Despacho: 1 },
+  { DNI: "45803096", nombre: "John Travolta", DNIJefe: null, Despacho: 2 },
+  { DNI: "40138116", nombre: "Maria Carey", DNIJefe: "44072783", Despacho: 4 },
+  { DNI: "48425309", nombre: "Jose Piqué Chiesa", DNIJefe: "48391395", Despacho: 8 },
+  { DNI: "41539450", nombre: "Clara Moonrock",DNIJefe: "48391395", Despacho: 6 },
+  { DNI: "48391395", nombre: "Adrián Milán Osana",DNIJefe: null, Despacho: 3 },
+  { DNI: "41277319", nombre: "Ewan Ruiz Ruiz",DNIJefe: "48391395", Despacho: 2 },
+  { DNI: "47734086", nombre: "Aroa Mendoza Zaragoza",DNIJefe: null, Despacho: 9 }
+])

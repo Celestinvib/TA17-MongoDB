@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "62e2c5fc527f6830c0527553"
+  },
+  "DNI": "46423897",
+  "NomApels": "Ares Kifuka Pérez",
+  "DNIJefe": "47734086",
+  "Despacho": 1
+},{
+  "_id": {
+    "$oid": "62e2c5fc527f6830c0527554"
+  },
+  "DNI": "44995913",
+  "NomApels": "Mark Johnson",
+  "DNIJefe": "46423897",
+  "Despacho": 1
+},{
+  "_id": {
+    "$oid": "62e2c5fc527f6830c0527555"
+  },
+  "DNI": "44072783",
+  "nombre": "Ceres García Pérez",
+  "DNIJefe": "46423897",
+  "Despacho": 1
+},{
+  "_id": {
+    "$oid": "62e2c5fc527f6830c0527556"
+  },
+  "DNI": "45803096",
+  "nombre": "John Travolta",
+  "DNIJefe": null,
+  "Despacho": 2
+},{
+  "_id": {
+    "$oid": "62e2c5fc527f6830c0527557"
+  },
+  "DNI": "40138116",
+  "nombre": "Maria Carey",
+  "DNIJefe": "44072783",
+  "Despacho": 4
+},{
+  "_id": {
+    "$oid": "62e2c5fc527f6830c0527558"
+  },
+  "DNI": "48425309",
+  "nombre": "Jose Piqué Chiesa",
+  "DNIJefe": "48391395",
+  "Despacho": 8
+},{
+  "_id": {
+    "$oid": "62e2c5fc527f6830c0527559"
+  },
+  "DNI": "41539450",
+  "nombre": "Clara Moonrock",
+  "DNIJefe": "48391395",
+  "Despacho": 6
+},{
+  "_id": {
+    "$oid": "62e2c5fc527f6830c052755a"
+  },
+  "DNI": "48391395",
+  "nombre": "Adrián Milán Osana",
+  "DNIJefe": null,
+  "Despacho": 3
+},{
+  "_id": {
+    "$oid": "62e2c5fc527f6830c052755b"
+  },
+  "DNI": "41277319",
+  "nombre": "Ewan Ruiz Ruiz",
+  "DNIJefe": "48391395",
+  "Despacho": 2
+},{
+  "_id": {
+    "$oid": "62e2c5fc527f6830c052755c"
+  },
+  "DNI": "47734086",
+  "nombre": "Aroa Mendoza Zaragoza",
+  "DNIJefe": null,
+  "Despacho": 9
+}]

@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62e2c5f1527f6830c0527549"
+  },
+  "Numero": 1,
+  "Capacidad": 4
+},{
+  "_id": {
+    "$oid": "62e2c5f1527f6830c052754a"
+  },
+  "Numero": 2,
+  "Capacidad": 2
+},{
+  "_id": {
+    "$oid": "62e2c5f1527f6830c052754b"
+  },
+  "Numero": 3,
+  "Capacidad": 5
+},{
+  "_id": {
+    "$oid": "62e2c5f1527f6830c052754c"
+  },
+  "Numero": 4,
+  "Capacidad": 1
+},{
+  "_id": {
+    "$oid": "62e2c5f1527f6830c052754d"
+  },
+  "Numero": 5,
+  "Capacidad": 3
+},{
+  "_id": {
+    "$oid": "62e2c5f1527f6830c052754e"
+  },
+  "Numero": 6,
+  "Capacidad": 3
+},{
+  "_id": {
+    "$oid": "62e2c5f1527f6830c052754f"
+  },
+  "Numero": 7,
+  "Capacidad": 1
+},{
+  "_id": {
+    "$oid": "62e2c5f1527f6830c0527550"
+  },
+  "Numero": 8,
+  "Capacidad": 2
+},{
+  "_id": {
+    "$oid": "62e2c5f1527f6830c0527551"
+  },
+  "Numero": 9,
+  "Capacidad": 1
+},{
+  "_id": {
+    "$oid": "62e2c5f1527f6830c0527552"
+  },
+  "Numero": 10,
+  "Capacidad": 4
+}]
