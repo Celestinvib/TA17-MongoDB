@@ -1,0 +1,29 @@
+use TA17_Ejercicio01
+
+db.createCollection("Fabricantes")
+
+db.Fabricantes.insertMany([
+    { Nombre: "Paco" },
+    { Nombre: "Antonio" },
+    { Nombre: "Ramon" },
+    { Nombre: "Eduardo" },
+    { Nombre: "Gerard" },
+    { Nombre: "Guillem" },
+    { Nombre: "Adria" },
+    { Nombre: "Celes" },
+    { Nombre: "Clara" },
+    { Nombre: "Jose" }
+])
+
+db.Articulos.insertMany([
+    { Nombre: "Cargador USB-C", Precio: 12, Fabricante: "62e7b79d0db4a08de132220b"},
+    { Nombre: "Super Mario Bros", Precio: 55, Fabricante: "62e7b79d0db4a08de132220c"},
+    { Nombre: "PlayStation 5", Precio: 436, Fabricante: "62e7b79d0db4a08de132220d"},
+    { Nombre: "Xbox Series X", Precio: 453, Fabricante: "62e7b79d0db4a08de132220e"},
+    { Nombre: "Xbox Series S", Precio: 234, Fabricante: "62e7b79d0db4a08de132220f"},
+    { Nombre: "Cartera Cuero", Precio: 7, Fabricante: "62e7b79d0db4a08de1322210"},
+    { Nombre: "USB 32GB", Precio: 25, Fabricante: "62e7b79d0db4a08de1322211"},
+    { Nombre: "Nintendo Switch", Precio: 250, Fabricante: "62e7b79d0db4a08de1322212"},
+    { Nombre: "Cargador Micro-USB", Precio: 34, Fabricante: "62e7b79d0db4a08de1322213"},
+    { Nombre: "Altavoz", Precio: 76, Fabricante: "62e7b79d0db4a08de1322214"}
+])

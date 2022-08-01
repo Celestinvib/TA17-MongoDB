@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "62e7b9100db4a08de1322215"
+  },
+  "Nombre": "Cargador USB-C",
+  "Precio": 12,
+  "Fabricante": "62e7b79d0db4a08de132220b"
+},{
+  "_id": {
+    "$oid": "62e7b9100db4a08de1322216"
+  },
+  "Nombre": "Super Mario Bros",
+  "Precio": 55,
+  "Fabricante": "62e7b79d0db4a08de132220c"
+},{
+  "_id": {
+    "$oid": "62e7b9100db4a08de1322217"
+  },
+  "Nombre": "PlayStation 5",
+  "Precio": 436,
+  "Fabricante": "62e7b79d0db4a08de132220d"
+},{
+  "_id": {
+    "$oid": "62e7b9100db4a08de1322218"
+  },
+  "Nombre": "Xbox Series X",
+  "Precio": 453,
+  "Fabricante": "62e7b79d0db4a08de132220e"
+},{
+  "_id": {
+    "$oid": "62e7b9100db4a08de1322219"
+  },
+  "Nombre": "Xbox Series S",
+  "Precio": 234,
+  "Fabricante": "62e7b79d0db4a08de132220f"
+},{
+  "_id": {
+    "$oid": "62e7b9100db4a08de132221a"
+  },
+  "Nombre": "Cartera Cuero",
+  "Precio": 7,
+  "Fabricante": "62e7b79d0db4a08de1322210"
+},{
+  "_id": {
+    "$oid": "62e7b9100db4a08de132221b"
+  },
+  "Nombre": "USB 32GB",
+  "Precio": 25,
+  "Fabricante": "62e7b79d0db4a08de1322211"
+},{
+  "_id": {
+    "$oid": "62e7b9100db4a08de132221c"
+  },
+  "Nombre": "Nintendo Switch",
+  "Precio": 250,
+  "Fabricante": "62e7b79d0db4a08de1322212"
+},{
+  "_id": {
+    "$oid": "62e7b9100db4a08de132221d"
+  },
+  "Nombre": "Cargador Micro-USB",
+  "Precio": 34,
+  "Fabricante": "62e7b79d0db4a08de1322213"
+},{
+  "_id": {
+    "$oid": "62e7b9100db4a08de132221e"
+  },
+  "Nombre": "Altavoz",
+  "Precio": 76,
+  "Fabricante": "62e7b79d0db4a08de1322214"
+}]
