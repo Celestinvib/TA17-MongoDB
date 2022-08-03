@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62eadd12deaf8f57ef3999a6"
+  },
+  "Nombre": "Xbox Series S",
+  "Precio": "352"
+},{
+  "_id": {
+    "$oid": "62eadd12deaf8f57ef3999a7"
+  },
+  "Nombre": "Xbox Series X",
+  "Precio": "432"
+},{
+  "_id": {
+    "$oid": "62eadd12deaf8f57ef3999a8"
+  },
+  "Nombre": "Nintendo Switch",
+  "Precio": "321"
+},{
+  "_id": {
+    "$oid": "62eadd12deaf8f57ef3999a9"
+  },
+  "Nombre": "Play station",
+  "Precio": "456"
+},{
+  "_id": {
+    "$oid": "62eadd12deaf8f57ef3999aa"
+  },
+  "Nombre": "MSI GL65",
+  "Precio": "1346"
+},{
+  "_id": {
+    "$oid": "62eadd12deaf8f57ef3999ab"
+  },
+  "Nombre": "Lenovo thinkpad",
+  "Precio": "1654"
+},{
+  "_id": {
+    "$oid": "62eadd12deaf8f57ef3999ac"
+  },
+  "Nombre": "Rubberducky",
+  "Precio": "63"
+},{
+  "_id": {
+    "$oid": "62eadd12deaf8f57ef3999ad"
+  },
+  "Nombre": "Lenovo yoga",
+  "Precio": "986"
+},{
+  "_id": {
+    "$oid": "62eadd12deaf8f57ef3999ae"
+  },
+  "Nombre": "Macbook pro m1",
+  "Precio": "2032"
+},{
+  "_id": {
+    "$oid": "62eadd12deaf8f57ef3999af"
+  },
+  "Nombre": "Macbook air m2",
+  "Precio": "1602"
+}]

@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "62eaddf2deaf8f57ef3999b0"
+  },
+  "NomApels": "Adrià Milan"
+},{
+  "_id": {
+    "$oid": "62eaddf2deaf8f57ef3999b1"
+  },
+  "NomApels": "Celestin Inb"
+},{
+  "_id": {
+    "$oid": "62eaddf2deaf8f57ef3999b2"
+  },
+  "NomApels": "Clara ogll"
+},{
+  "_id": {
+    "$oid": "62eaddf2deaf8f57ef3999b3"
+  },
+  "NomApels": "Nicolas rueda"
+},{
+  "_id": {
+    "$oid": "62eaddf2deaf8f57ef3999b4"
+  },
+  "NomApels": "Gabriel napoles"
+},{
+  "_id": {
+    "$oid": "62eaddf2deaf8f57ef3999b5"
+  },
+  "NomApels": "Martin lumpickas"
+},{
+  "_id": {
+    "$oid": "62eaddf2deaf8f57ef3999b6"
+  },
+  "NomApels": "Alejandro sande"
+},{
+  "_id": {
+    "$oid": "62eaddf2deaf8f57ef3999b7"
+  },
+  "NomApels": "Jaume huget"
+},{
+  "_id": {
+    "$oid": "62eaddf2deaf8f57ef3999b8"
+  },
+  "NomApels": "Ramon fuentes"
+},{
+  "_id": {
+    "$oid": "62eaddf2deaf8f57ef3999b9"
+  },
+  "NomApels": "Felipe gallardo"
+}]

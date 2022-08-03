@@ -1,0 +1,61 @@
+use TA17_Ejercicio07
+
+db.createCollection("Productos")
+
+db.Productos.insertMany([
+  { Nombre: "Xbox Series S", Precio: "352" },
+  { Nombre: "Xbox Series X", Precio: "432" },
+  { Nombre: "Nintendo Switch", Precio: "321" },
+  { Nombre: "Play station", Precio: "456" },
+  { Nombre: "MSI GL65", Precio: "1346" },
+  { Nombre: "Lenovo thinkpad", Precio: "1654" },
+  { Nombre: "Rubberducky", Precio: "63" },
+  { Nombre: "Lenovo yoga", Precio: "986" },
+  { Nombre: "Macbook pro m1", Precio: "2032" },
+  { Nombre: "Macbook air m2", Precio: "1602" }
+])
+
+db.createCollection("Cajeros")
+
+db.Cajeros.insertMany([
+  { NomApels: "Adrià Milan" },
+  { NomApels: "Celestin Inb" },
+  { NomApels: "Clara ogll" },
+  { NomApels: "Nicolas rueda" },
+  { NomApels: "Gabriel napoles" },
+  { NomApels: "Martin lumpickas" },
+  { NomApels: "Alejandro sande" },
+  { NomApels: "Jaume huget" },
+  { NomApels: "Ramon fuentes" },
+  { NomApels: "Felipe gallardo" }
+])
+
+db.createCollection("Maquinas_registradoras")
+
+db.Maquinas_registradoras.insertMany([
+  { Piso: "2" },
+  { Piso: "4" },
+  { Piso: "1" },
+  { Piso: "2" },
+  { Piso: "4" },
+  { Piso: "3" },
+  { Piso: "3" },
+  { Piso: "2" },
+  { Piso: "4" },
+  { Piso: "1" }
+])
+
+db.createCollection("Venta")
+
+db.Venta.insertMany([
+  { Cajero: "62eaddf2deaf8f57ef3999b0", Maquina: "62eade92deaf8f57ef3999ba", Producto: "62eadd12deaf8f57ef3999a6" },
+  { Cajero: "62eaddf2deaf8f57ef3999b1", Maquina: "62eade92deaf8f57ef3999bb", Producto: "62eadd12deaf8f57ef3999a7" },
+  { Cajero: "62eaddf2deaf8f57ef3999b2", Maquina: "62eade92deaf8f57ef3999bc", Producto: "62eadd12deaf8f57ef3999a8" },
+  { Cajero: "62eaddf2deaf8f57ef3999b3", Maquina: "62eade92deaf8f57ef3999bd", Producto: "62eadd12deaf8f57ef3999a9" },
+  { Cajero: "62eaddf2deaf8f57ef3999b4", Maquina: "62eade92deaf8f57ef3999be", Producto: "62eadd12deaf8f57ef3999aa" },
+  { Cajero: "62eaddf2deaf8f57ef3999b5", Maquina: "62eade92deaf8f57ef3999bf", Producto: "62eadd12deaf8f57ef3999ab" },
+  { Cajero: "62eaddf2deaf8f57ef3999b6", Maquina: "62eade92deaf8f57ef3999c0", Producto: "62eadd12deaf8f57ef3999ac" },
+  { Cajero: "62eaddf2deaf8f57ef3999b7", Maquina: "62eade92deaf8f57ef3999c1", Producto: "62eadd12deaf8f57ef3999ad" },
+  { Cajero: "62eaddf2deaf8f57ef3999b8", Maquina: "62eade92deaf8f57ef3999c2", Producto: "62eadd12deaf8f57ef3999ae" },
+  { Cajero: "62eaddf2deaf8f57ef3999b9", Maquina: "62eade92deaf8f57ef3999c3", Producto: "62eadd12deaf8f57ef3999af" }
+])

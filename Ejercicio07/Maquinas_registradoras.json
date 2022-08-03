@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "62eade92deaf8f57ef3999ba"
+  },
+  "Piso": "2"
+},{
+  "_id": {
+    "$oid": "62eade92deaf8f57ef3999bb"
+  },
+  "Piso": "4"
+},{
+  "_id": {
+    "$oid": "62eade92deaf8f57ef3999bc"
+  },
+  "Piso": "1"
+},{
+  "_id": {
+    "$oid": "62eade92deaf8f57ef3999bd"
+  },
+  "Piso": "2"
+},{
+  "_id": {
+    "$oid": "62eade92deaf8f57ef3999be"
+  },
+  "Piso": "4"
+},{
+  "_id": {
+    "$oid": "62eade92deaf8f57ef3999bf"
+  },
+  "Piso": "3"
+},{
+  "_id": {
+    "$oid": "62eade92deaf8f57ef3999c0"
+  },
+  "Piso": "3"
+},{
+  "_id": {
+    "$oid": "62eade92deaf8f57ef3999c1"
+  },
+  "Piso": "2"
+},{
+  "_id": {
+    "$oid": "62eade92deaf8f57ef3999c2"
+  },
+  "Piso": "4"
+},{
+  "_id": {
+    "$oid": "62eade92deaf8f57ef3999c3"
+  },
+  "Piso": "1"
+}]
