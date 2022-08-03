@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62eadac0deaf8f57ef399992"
+  },
+  "Nombre": "Men in black",
+  "CalificacionEdad": "12"
+},{
+  "_id": {
+    "$oid": "62eadac0deaf8f57ef399993"
+  },
+  "Nombre": "12 Monos",
+  "CalificacionEdad": "14"
+},{
+  "_id": {
+    "$oid": "62eadac0deaf8f57ef399994"
+  },
+  "Nombre": "Django",
+  "CalificacionEdad": "18"
+},{
+  "_id": {
+    "$oid": "62eadac0deaf8f57ef399995"
+  },
+  "Nombre": "Malditos bastardos",
+  "CalificacionEdad": "18"
+},{
+  "_id": {
+    "$oid": "62eadac0deaf8f57ef399996"
+  },
+  "Nombre": "Pulp Fiction",
+  "CalificacionEdad": "16"
+},{
+  "_id": {
+    "$oid": "62eadac0deaf8f57ef399997"
+  },
+  "Nombre": "Kill bill",
+  "CalificacionEdad": "18"
+},{
+  "_id": {
+    "$oid": "62eadac0deaf8f57ef399998"
+  },
+  "Nombre": "Star wars",
+  "CalificacionEdad": "8"
+},{
+  "_id": {
+    "$oid": "62eadac0deaf8f57ef399999"
+  },
+  "Nombre": "El señor de los añillos",
+  "CalificacionEdad": "12"
+},{
+  "_id": {
+    "$oid": "62eadac0deaf8f57ef39999a"
+  },
+  "Nombre": "El padrino",
+  "CalificacionEdad": "16"
+},{
+  "_id": {
+    "$oid": "62eadac0deaf8f57ef39999b"
+  },
+  "Nombre": "El irlandés",
+  "CalificacionEdad": "16"
+}]

@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62eadaffdeaf8f57ef39999c"
+  },
+  "Nombre": "Sala azul",
+  "Pelicula": "62eadac0deaf8f57ef399992"
+},{
+  "_id": {
+    "$oid": "62eadaffdeaf8f57ef39999d"
+  },
+  "Nombre": "Sala roja",
+  "Pelicula": "62eadac0deaf8f57ef399993"
+},{
+  "_id": {
+    "$oid": "62eadaffdeaf8f57ef39999e"
+  },
+  "Nombre": "Sala amarilla",
+  "Pelicula": "62eadac0deaf8f57ef399994"
+},{
+  "_id": {
+    "$oid": "62eadaffdeaf8f57ef39999f"
+  },
+  "Nombre": "Sala verde",
+  "Pelicula": "62eadac0deaf8f57ef399995"
+},{
+  "_id": {
+    "$oid": "62eadaffdeaf8f57ef3999a0"
+  },
+  "Nombre": "Sala negra",
+  "Pelicula": "62eadac0deaf8f57ef399996"
+},{
+  "_id": {
+    "$oid": "62eadaffdeaf8f57ef3999a1"
+  },
+  "Nombre": "Sala blanca",
+  "Pelicula": "62eadac0deaf8f57ef399997"
+},{
+  "_id": {
+    "$oid": "62eadaffdeaf8f57ef3999a2"
+  },
+  "Nombre": "Sala morada",
+  "Pelicula": "62eadac0deaf8f57ef399998"
+},{
+  "_id": {
+    "$oid": "62eadaffdeaf8f57ef3999a3"
+  },
+  "Nombre": "Sala rosa",
+  "Pelicula": "62eadac0deaf8f57ef399999"
+},{
+  "_id": {
+    "$oid": "62eadaffdeaf8f57ef3999a4"
+  },
+  "Nombre": "Sala dorada",
+  "Pelicula": "62eadac0deaf8f57ef39999a"
+},{
+  "_id": {
+    "$oid": "62eadaffdeaf8f57ef3999a5"
+  },
+  "Nombre": "Sala plateada",
+  "Pelicula": "62eadac0deaf8f57ef39999b"
+}]

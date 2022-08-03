@@ -1,0 +1,31 @@
+use TA17_Ejercicio04
+
+db.createCollection("Peliculas")
+
+db.Peliculas.insertMany([
+  { Nombre: "Men in black", CalificacionEdad: "12" },
+  { Nombre: "12 Monos", CalificacionEdad: "14" },
+  { Nombre: "Django", CalificacionEdad: "18" },
+  { Nombre: "Malditos bastardos", CalificacionEdad: "18" },
+  { Nombre: "Pulp Fiction", CalificacionEdad: "16" },
+  { Nombre: "Kill bill", CalificacionEdad: "18" },
+  { Nombre: "Star wars", CalificacionEdad: "8" },
+  { Nombre: "El señor de los añillos", CalificacionEdad: "12" },
+  { Nombre: "El padrino", CalificacionEdad: "16" },
+  { Nombre: "El irlandés", CalificacionEdad: "16" }
+])
+
+db.createCollection("Salas")
+
+db.Salas.insertMany([
+  { Nombre: "Sala azul", Pelicula: "62eadac0deaf8f57ef399992" },
+  { Nombre: "Sala roja", Pelicula: "62eadac0deaf8f57ef399993" },
+  { Nombre: "Sala amarilla", Pelicula: "62eadac0deaf8f57ef399994" },
+  { Nombre: "Sala verde", Pelicula: "62eadac0deaf8f57ef399995" },
+  { Nombre: "Sala negra", Pelicula: "62eadac0deaf8f57ef399996" },
+  { Nombre: "Sala blanca", Pelicula: "62eadac0deaf8f57ef399997" },
+  { Nombre: "Sala morada", Pelicula: "62eadac0deaf8f57ef399998" },
+  { Nombre: "Sala rosa", Pelicula: "62eadac0deaf8f57ef399999" },
+  { Nombre: "Sala dorada", Pelicula: "62eadac0deaf8f57ef39999a" },
+  { Nombre: "Sala plateada", Pelicula: "62eadac0deaf8f57ef39999b" }
+])
